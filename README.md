@@ -6,7 +6,7 @@ It modifies the host's file on your system to redirect the blocked websites to a
 ## Prerequisites
 
 - Python 3.x
-- `time` and `datatime` collections
+- `time` and `datatime` modules
 
 ## Usage
 
